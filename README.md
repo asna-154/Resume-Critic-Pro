@@ -32,7 +32,8 @@
 
 ---
 
-**##👩‍💻 Authors**
+**👩‍💻 Authors**
+
 Asna Hammad – Developer & UI Designer
 
 Fizzah Farooq – Co-Developer & NLP Analyst
