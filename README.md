@@ -32,6 +32,13 @@
 
 ---
 
+**##👩‍💻 Authors**
+Asna Hammad – Developer & UI Designer
+
+Fizzah Farooq – Co-Developer & NLP Analyst
+
+---
+
 ## 🧭 How It Works
 
 1. **Upload your resume** (PDF or DOCX).
@@ -53,7 +60,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/resume-critic-pro.git
+git clone https://github.com/asna-154/Resume-Critic-Pro.git
 cd resume-critic-pro
 
 # Create a virtual environment (optional but recommended)
