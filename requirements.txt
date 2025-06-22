@@ -1,0 +1,6 @@
+streamlit
+language_tool_python
+python-docx
+PyMuPDF
+pandas
+plotly
